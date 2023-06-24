@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 03:11:29 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMjoxNjozMyBQTTszMzA5"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzoxMToyOSBQTTsyOzM0MTk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi1, sayi2, sayi3, enBuyukSayi" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen birinci say&#305;y&#305; giriniz&quot;" newline="True"/>
+            <input variable="sayi1"/>
+            <output expression="&quot;L&#252;tfen ikinci say&#305;y&#305; giriniz&quot;" newline="True"/>
+            <input variable="sayi2"/>
+            <output expression="&quot;L&#252;tfen ucuncu say&#305;y&#305; giriniz&quot;" newline="True"/>
+            <input variable="sayi3"/>
+            <assign variable="enBuyukSayi" expression="sayi1"/>
+            <if expression="sayi2 &gt; sayi3 &amp;&amp; sayi2&gt;sayi1">
+                <then>
+                    <assign variable="enBuyukSayi" expression="sayi2"/>
+                    <output expression="&quot;En b&#252;y&#252;k say&#305;: &quot;  &amp;  enBuyukSayi" newline="True"/>
+                </then>
+                <else>
+                    <if expression="sayi1&gt;sayi2 &amp;&amp; sayi1&gt;sayi3">
+                        <then>
+                            <assign variable="enBuyukSayi" expression="sayi1"/>
+                            <output expression="&quot;En b&#252;y&#252;k say&#305;: &quot;  &amp;  enBuyukSayi" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;En b&#252;y&#252;k say&#305;: &quot;  &amp;  sayi3" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

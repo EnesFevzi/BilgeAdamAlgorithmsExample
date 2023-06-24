@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-23 03:26:58 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMzswMjoyMDo1MyBQTTszMzA3"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMzswMzoyNjo1OCBQTTsyOzM0Mjg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi, bolen" type="Integer" array="False" size=""/>
+            <declare name="asalMi" type="Boolean" array="False" size=""/>
+            <for variable="sayi" start="2" end="100" direction="inc" step="1">
+                <assign variable="asalMi" expression="true"/>
+                <for variable="bolen" start="2" end="sayi-1" direction="inc" step="1">
+                    <if expression="sayi % bolen == 0">
+                        <then>
+                            <assign variable="asalMi" expression="false"/>
+                        </then>
+                        <else/>
+                    </if>
+                </for>
+                <if expression="asalMi">
+                    <then>
+                        <output expression="&quot;Asald&#305;r  &quot; &amp;sayi" newline="True"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,8 @@
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\01HAFTA\Visual Studio\01Odev\01Odev\bin\Debug\01Odev.exe.config
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\01HAFTA\Visual Studio\01Odev\01Odev\bin\Debug\01Odev.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\01HAFTA\Visual Studio\01Odev\01Odev\bin\Debug\01Odev.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\01HAFTA\Visual Studio\01Odev\01Odev\obj\Debug\01Odev.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\01HAFTA\Visual Studio\01Odev\01Odev\obj\Debug\01Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\01HAFTA\Visual Studio\01Odev\01Odev\obj\Debug\01Odev.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\01HAFTA\Visual Studio\01Odev\01Odev\obj\Debug\01Odev.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\01HAFTA\Visual Studio\01Odev\01Odev\obj\Debug\01Odev.pdb
