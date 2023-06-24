@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 03:49:05 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzoyNjoxMiBQTTszMzA4"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzo0OTowNSBQTTsyOzM0MjQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi, cevresi, alani" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen bir say&#305;n giriniz&quot;" newline="True"/>
+            <input variable="sayi"/>
+            <assign variable="cevresi" expression="sayi*4"/>
+            <assign variable="alani" expression="sayi*sayi"/>
+            <output expression="&quot;&#199;evresi :&quot; &amp; cevresi" newline="True"/>
+            <output expression="&quot;Alan&#305; :&quot; &amp; alani" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

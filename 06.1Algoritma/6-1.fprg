@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 04:58:03 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzozMzowOCBQTTszMzEx"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswNDo1ODowMyBQTTs1OzM0MjY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="toplam, sayi, i, dongu, ortalama, adet" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <assign variable="adet" expression="0"/>
+            <declare name="cevap" type="String" array="False" size=""/>
+            <do expression="cevap==&quot;evet&quot;">
+                <output expression="&quot;Say&#305; Giriniz&quot;" newline="True"/>
+                <input variable="sayi"/>
+                <assign variable="toplam" expression="toplam+sayi"/>
+                <assign variable="adet" expression="adet+1"/>
+                <output expression="&quot;Say&#305; Girmeye Devam Edecek misin ?&quot;" newline="True"/>
+                <input variable="cevap"/>
+            </do>
+            <assign variable="ortalama" expression="toplam/adet"/>
+            <output expression="&quot;Girilen say&#305;lar&#305;n ortalamas&#305; &quot; &amp; ortalama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

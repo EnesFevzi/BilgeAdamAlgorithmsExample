@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 04:56:08 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzozMzowOCBQTTszMzEx"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswNDo1NjowOCBQTTs0OzM0Mjg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="toplam, sayi, n, i, dongu, ortalama" type="Integer" array="False" size=""/>
+            <assign variable="sayi" expression="0"/>
+            <assign variable="dongu" expression="1"/>
+            <assign variable="toplam" expression="0"/>
+            <output expression="&quot;Ka&#231; adet say&#305; gireceksiniz&quot;" newline="True"/>
+            <input variable="n"/>
+            <while expression="dongu&lt;= n">
+                <output expression="&quot;Say&#305; Giriniz&quot;" newline="True"/>
+                <input variable="sayi"/>
+                <assign variable="dongu" expression="sayi+1"/>
+                <assign variable="toplam" expression="toplam+sayi"/>
+            </while>
+            <assign variable="ortalama" expression="toplam/n"/>
+            <output expression="&quot;n kadar  olan say&#305;n&#305;n  ORTALAMASI &quot; &amp; ortalama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

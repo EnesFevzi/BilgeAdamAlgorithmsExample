@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 05:02:00 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzo1Mjo1MyBQTTszMzEy"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswNTowMjowMCBQTTsyOzM0MTA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi, dongu" type="Integer" array="False" size=""/>
+            <assign variable="sayi" expression="1"/>
+            <while expression="sayi&lt;=100">
+                <if expression="sayi %2==0">
+                    <then>
+                        <output expression="sayi &amp; &quot; Say&#305; &#199;&#304;fttir&quot;" newline="True"/>
+                    </then>
+                    <else>
+                        <output expression="sayi &amp; &quot; Say&#305; Tektir&quot;" newline="True"/>
+                    </else>
+                </if>
+                <assign variable="sayi" expression="sayi+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
