@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-23 04:23:38 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMzswMTo1OTo1MSBQTTszMzE2"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMzswNDoyMzozOCBQTTs0OzM0MjY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="ToplamMusteriSayisi, BegenenSayisi, BegenmeyenSayisi, KararsizSayisi, i, degerlendirme" type="Integer" array="False" size=""/>
+            <declare name="cevap" type="String" array="False" size=""/>
+            <assign variable="BegenenSayisi" expression="0"/>
+            <assign variable="BegenmeyenSayisi" expression="0"/>
+            <assign variable="KararsizSayisi" expression="0"/>
+            <assign variable="i" expression="0"/>
+            <do expression="cevap==&quot;evet&quot;">
+                <output expression="&quot;De&#287;erlendirmeniz Nedir ?&quot;" newline="True"/>
+                <output expression="&quot;1 - Be&#287;endi, 2 - Be&#287;enmedi, 3 - Karars&#305;z&quot;" newline="True"/>
+                <input variable="degerlendirme"/>
+                <assign variable="i" expression="i+1"/>
+                <if expression="degerlendirme == 1">
+                    <then>
+                        <assign variable="BegenenSayisi" expression="BegenenSayisi+1"/>
+                    </then>
+                    <else>
+                        <if expression="degerlendirme == 2">
+                            <then>
+                                <assign variable="BegenmeyenSayisi" expression="BegenmeyenSayisi+1"/>
+                            </then>
+                            <else>
+                                <if expression="degerlendirme==3">
+                                    <then>
+                                        <assign variable="KararsizSayisi" expression="KararsizSayisi+1"/>
+                                    </then>
+                                    <else>
+                                        <output expression="&quot;Ge&#231;ersiz De&#287;erlendirme&quot;" newline="True"/>
+                                    </else>
+                                </if>
+                            </else>
+                        </if>
+                    </else>
+                </if>
+                <output expression="&quot;Ankete Kat&#305;lmak &#304;ster Misiniz?&quot;" newline="True"/>
+                <input variable="cevap"/>
+            </do>
+            <assign variable="ToplamMusteriSayisi" expression="BegenenSayisi+BegenmeyenSayisi+KararsizSayisi"/>
+            <output expression="&quot;Toplam m&#252;&#351;teri say&#305;s&#305;: &quot;  &amp; ToplamMusteriSayisi" newline="True"/>
+            <output expression="&quot;Be&#287;enen say&#305;s&#305;: &quot; &amp;  BegenenSayisi" newline="True"/>
+            <output expression="&quot;Be&#287;enmeyen say&#305;s&#305;: &quot; &amp;  BegenmeyenSayisi" newline="True"/>
+            <output expression="&quot;Karars&#305;z kalan say&#305;s&#305;: &quot; &amp; KararsizSayisi" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

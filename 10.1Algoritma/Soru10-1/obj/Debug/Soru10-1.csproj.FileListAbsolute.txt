@@ -1,0 +1,8 @@
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru10-1\Soru10-1\bin\Debug\Soru10-1.exe.config
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru10-1\Soru10-1\bin\Debug\Soru10-1.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru10-1\Soru10-1\bin\Debug\Soru10-1.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru10-1\Soru10-1\obj\Debug\Soru10-1.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru10-1\Soru10-1\obj\Debug\Soru10-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru10-1\Soru10-1\obj\Debug\Soru10-1.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru10-1\Soru10-1\obj\Debug\Soru10-1.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru10-1\Soru10-1\obj\Debug\Soru10-1.pdb

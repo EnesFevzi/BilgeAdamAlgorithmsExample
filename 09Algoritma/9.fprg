@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 04:12:10 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswNDowMTowNCBQTTszMzAz"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswNDoxMjoxMCBQTTsyOzM0MTE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="vizeNot, FinalNot, finalEtki, vizeEtki, gecmeNotu" type="Integer" array="False" size=""/>
+            <output expression="&quot;Vize Notunuzu Girin&quot;" newline="True"/>
+            <input variable="vizeNot"/>
+            <output expression="&quot;Final Notunuzu Girin&quot;" newline="True"/>
+            <input variable="finalNot"/>
+            <assign variable="vizeEtki" expression="vizeNot*0.3"/>
+            <assign variable="finalEtki" expression="finalNot*0.7"/>
+            <assign variable="gecmeNotu" expression="vizeEtki+finalEtki"/>
+            <if expression="gecmeNotu&gt;=50">
+                <then>
+                    <output expression="&quot;Ge&#231;tiniz, Notunuz &quot; &amp; gecmeNotu" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Kald&#305;n&#305;z , Notunuz &quot; &amp; gecmeNotu" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

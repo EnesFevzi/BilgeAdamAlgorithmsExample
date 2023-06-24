@@ -1,0 +1,8 @@
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru9\Soru9\bin\Debug\Soru9.exe.config
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru9\Soru9\bin\Debug\Soru9.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru9\Soru9\bin\Debug\Soru9.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru9\Soru9\obj\Debug\Soru9.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru9\Soru9\obj\Debug\Soru9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru9\Soru9\obj\Debug\Soru9.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru9\Soru9\obj\Debug\Soru9.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Soru9\Soru9\obj\Debug\Soru9.pdb

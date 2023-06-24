@@ -1,0 +1,8 @@
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Algoritma12\Algoritma12\bin\Debug\Algoritma12.exe.config
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Algoritma12\Algoritma12\bin\Debug\Algoritma12.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Algoritma12\Algoritma12\bin\Debug\Algoritma12.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Algoritma12\Algoritma12\obj\Debug\Algoritma12.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Algoritma12\Algoritma12\obj\Debug\Algoritma12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Algoritma12\Algoritma12\obj\Debug\Algoritma12.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Algoritma12\Algoritma12\obj\Debug\Algoritma12.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\UYGULAMA DERSİ\Visual Studio\Algoritma12\Algoritma12\obj\Debug\Algoritma12.pdb
