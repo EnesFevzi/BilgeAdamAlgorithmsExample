@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 03:49:11 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzozMToyOCBQTTszMzEx"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzo0OToxMSBQTTsyOzM0MjE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen tam say&#305; giriniz&quot;" newline="True"/>
+            <input variable="sayi"/>
+            <if expression="sayi%2 == 0">
+                <then>
+                    <output expression="&quot;Say&#305; &#199;ifttir&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Say&#305; Tektir&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

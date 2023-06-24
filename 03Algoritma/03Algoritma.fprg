@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 03:19:59 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzoxMTozMCBQTTszMzAy"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzoxOTo1OSBQTTsxOzM0Mjk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="fiyat, kdvliFiyat" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen Fiyat Giriniz&quot;" newline="True"/>
+            <input variable="fiyat"/>
+            <assign variable="kdvliFiyat" expression="fiyat*1.18"/>
+            <output expression="&quot;KDV 'L&#304; F&#304;YAT : &quot; &amp; kdvliFiyat" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

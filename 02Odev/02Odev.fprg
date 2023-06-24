@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-23 05:43:03 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMzswNToyMzozNSBQTTszMzEz"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMzswNTo0MzowMyBQTTsyOzM0MTk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n, i" type="Integer" array="False" size=""/>
+            <assign variable="n" expression="16"/>
+            <declare name="tribonacci" type="Integer" array="True" size="n"/>
+            <output expression="&quot;Tribonacci Say&#305; Dizisi:&quot;" newline="True"/>
+            <assign variable="tribonacci[0]" expression="0"/>
+            <assign variable="tribonacci[1]" expression="0"/>
+            <assign variable="tribonacci[2]" expression="1"/>
+            <output expression="tribonacci[2]" newline="True"/>
+            <for variable="i" start="3" end="n-1" direction="inc" step="1">
+                <assign variable="tribonacci[i]" expression="tribonacci[i - 1] + tribonacci[i - 2] + tribonacci[i - 3]"/>
+                <if expression="tribonacci[i] &lt; 1000">
+                    <then>
+                        <output expression="tribonacci[i]" newline="True"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

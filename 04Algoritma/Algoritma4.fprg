@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Enes Fevzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 03:22:05 PM"/>
+        <attribute name="created" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjsxMTo1MDowNiBBTTszMjky"/>
+        <attribute name="edited" value="RW5lcyBGZXZ6aTtERVNLVE9QLVNQQ0gwVkc7MjAyMy0wNi0yMjswMzoyMjowNSBQTTsyOzM0MTU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi1, sayi2" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen birinci say&#305;y&#305; giriniz&quot;" newline="True"/>
+            <input variable="sayi1"/>
+            <output expression="&quot;L&#252;tfen ikinci say&#305;y&#305; giriniz&quot;" newline="True"/>
+            <input variable="sayi2"/>
+            <output expression="&quot;Yer de&#287;i&#351;tirmeden &#246;nceki birinci say&#305;: &quot; &amp; sayi1" newline="True"/>
+            <output expression="&quot;Yer de&#287;i&#351;tirmeden &#246;nceki birinci say&#305;: &quot; &amp; sayi2" newline="True"/>
+            <assign variable="sayi1" expression="sayi1+sayi2"/>
+            <assign variable="sayi2" expression="sayi1-sayi2"/>
+            <assign variable="sayi1" expression="sayi1-sayi2"/>
+            <output expression="&quot;Yer  de&#287;i&#351;tirdikten sonraki birincii birinci say&#305;: &quot; &amp; sayi1" newline="True"/>
+            <output expression="&quot;Yer  de&#287;i&#351;tirdikten sonraki birincii birinci say&#305;: &quot; &amp; sayi2" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
