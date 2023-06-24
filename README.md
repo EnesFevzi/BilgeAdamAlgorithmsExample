@@ -1,1 +1,1 @@
-# BilgeAdamAlgortihmsExample
+# BilgeAdamAlgorithmsExample
