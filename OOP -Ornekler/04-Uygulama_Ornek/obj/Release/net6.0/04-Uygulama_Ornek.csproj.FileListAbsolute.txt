@@ -1,0 +1,15 @@
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\bin\Release\net6.0\04-Uygulama_Ornek.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\bin\Release\net6.0\04-Uygulama_Ornek.deps.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\bin\Release\net6.0\04-Uygulama_Ornek.runtimeconfig.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\bin\Release\net6.0\04-Uygulama_Ornek.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\bin\Release\net6.0\04-Uygulama_Ornek.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\obj\Release\net6.0\04-Uygulama_Ornek.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\obj\Release\net6.0\04-Uygulama_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\obj\Release\net6.0\04-Uygulama_Ornek.AssemblyInfoInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\obj\Release\net6.0\04-Uygulama_Ornek.AssemblyInfo.cs
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\obj\Release\net6.0\04-Uygulama_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\obj\Release\net6.0\04-Uygulama_Ornek.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\obj\Release\net6.0\refint\04-Uygulama_Ornek.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\obj\Release\net6.0\04-Uygulama_Ornek.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\obj\Release\net6.0\04-Uygulama_Ornek.genruntimeconfig.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\04-Uygulama_Ornek\obj\Release\net6.0\ref\04-Uygulama_Ornek.dll

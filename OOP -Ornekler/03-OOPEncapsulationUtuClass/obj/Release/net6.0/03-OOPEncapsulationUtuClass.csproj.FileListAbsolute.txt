@@ -1,0 +1,15 @@
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\bin\Release\net6.0\03-OOPEncapsulationUtuClass.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\bin\Release\net6.0\03-OOPEncapsulationUtuClass.deps.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\bin\Release\net6.0\03-OOPEncapsulationUtuClass.runtimeconfig.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\bin\Release\net6.0\03-OOPEncapsulationUtuClass.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\bin\Release\net6.0\03-OOPEncapsulationUtuClass.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\obj\Release\net6.0\03-OOPEncapsulationUtuClass.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\obj\Release\net6.0\03-OOPEncapsulationUtuClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\obj\Release\net6.0\03-OOPEncapsulationUtuClass.AssemblyInfoInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\obj\Release\net6.0\03-OOPEncapsulationUtuClass.AssemblyInfo.cs
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\obj\Release\net6.0\03-OOPEncapsulationUtuClass.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\obj\Release\net6.0\03-OOPEncapsulationUtuClass.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\obj\Release\net6.0\refint\03-OOPEncapsulationUtuClass.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\obj\Release\net6.0\03-OOPEncapsulationUtuClass.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\obj\Release\net6.0\03-OOPEncapsulationUtuClass.genruntimeconfig.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\03-OOPEncapsulationUtuClass\obj\Release\net6.0\ref\03-OOPEncapsulationUtuClass.dll
