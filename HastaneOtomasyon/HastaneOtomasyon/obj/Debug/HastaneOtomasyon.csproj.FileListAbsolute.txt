@@ -1,0 +1,53 @@
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AnaEkran.resources
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.PersonelEkle.resources
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DetayEkran.resources
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AnaEkran.resources
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DetayEkran.resources
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.PersonelEkle.resources
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\Noramin\OOPDERS\Noramin2WFA\WindowsFormsApp1\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AnaEkran.resources
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DetayEkran.resources
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.PersonelEkle.resources
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\Enes Fevzi\Desktop\copy\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AnaEkran.resources
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DetayEkran.resources
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.PersonelEkle.resources
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AnaEkran2.resources
