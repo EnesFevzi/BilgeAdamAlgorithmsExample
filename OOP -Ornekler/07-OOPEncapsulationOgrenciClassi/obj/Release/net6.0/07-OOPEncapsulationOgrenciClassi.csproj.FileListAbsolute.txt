@@ -1,0 +1,15 @@
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\bin\Release\net6.0\07-OOPEncapsulationOgrenciClassi.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\bin\Release\net6.0\07-OOPEncapsulationOgrenciClassi.deps.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\bin\Release\net6.0\07-OOPEncapsulationOgrenciClassi.runtimeconfig.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\bin\Release\net6.0\07-OOPEncapsulationOgrenciClassi.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\bin\Release\net6.0\07-OOPEncapsulationOgrenciClassi.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\obj\Release\net6.0\07-OOPEncapsulationOgrenciClassi.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\obj\Release\net6.0\07-OOPEncapsulationOgrenciClassi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\obj\Release\net6.0\07-OOPEncapsulationOgrenciClassi.AssemblyInfoInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\obj\Release\net6.0\07-OOPEncapsulationOgrenciClassi.AssemblyInfo.cs
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\obj\Release\net6.0\07-OOPEncapsulationOgrenciClassi.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\obj\Release\net6.0\07-OOPEncapsulationOgrenciClassi.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\obj\Release\net6.0\refint\07-OOPEncapsulationOgrenciClassi.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\obj\Release\net6.0\07-OOPEncapsulationOgrenciClassi.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\obj\Release\net6.0\07-OOPEncapsulationOgrenciClassi.genruntimeconfig.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\07-OOPEncapsulationOgrenciClassi\obj\Release\net6.0\ref\07-OOPEncapsulationOgrenciClassi.dll

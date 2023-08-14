@@ -1,0 +1,15 @@
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\bin\Debug\net6.0\08-OOPİnheritanceTasitlar.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\bin\Debug\net6.0\08-OOPİnheritanceTasitlar.deps.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\bin\Debug\net6.0\08-OOPİnheritanceTasitlar.runtimeconfig.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\bin\Debug\net6.0\08-OOPİnheritanceTasitlar.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\bin\Debug\net6.0\08-OOPİnheritanceTasitlar.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\obj\Debug\net6.0\08-OOPİnheritanceTasitlar.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\obj\Debug\net6.0\08-OOPİnheritanceTasitlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\obj\Debug\net6.0\08-OOPİnheritanceTasitlar.AssemblyInfoInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\obj\Debug\net6.0\08-OOPİnheritanceTasitlar.AssemblyInfo.cs
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\obj\Debug\net6.0\08-OOPİnheritanceTasitlar.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\obj\Debug\net6.0\08-OOPİnheritanceTasitlar.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\obj\Debug\net6.0\refint\08-OOPİnheritanceTasitlar.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\obj\Debug\net6.0\08-OOPİnheritanceTasitlar.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\obj\Debug\net6.0\08-OOPİnheritanceTasitlar.genruntimeconfig.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\08-OOPİnheritanceTasitlar\obj\Debug\net6.0\ref\08-OOPİnheritanceTasitlar.dll
