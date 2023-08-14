@@ -1,0 +1,15 @@
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\bin\Debug\net6.0\02-OOPGirisClassTanimlamasi.exe
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\bin\Debug\net6.0\02-OOPGirisClassTanimlamasi.deps.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\bin\Debug\net6.0\02-OOPGirisClassTanimlamasi.runtimeconfig.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\bin\Debug\net6.0\02-OOPGirisClassTanimlamasi.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\bin\Debug\net6.0\02-OOPGirisClassTanimlamasi.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\obj\Debug\net6.0\02-OOPGirisClassTanimlamasi.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\obj\Debug\net6.0\02-OOPGirisClassTanimlamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\obj\Debug\net6.0\02-OOPGirisClassTanimlamasi.AssemblyInfoInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\obj\Debug\net6.0\02-OOPGirisClassTanimlamasi.AssemblyInfo.cs
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\obj\Debug\net6.0\02-OOPGirisClassTanimlamasi.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\obj\Debug\net6.0\02-OOPGirisClassTanimlamasi.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\obj\Debug\net6.0\refint\02-OOPGirisClassTanimlamasi.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\obj\Debug\net6.0\02-OOPGirisClassTanimlamasi.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\obj\Debug\net6.0\02-OOPGirisClassTanimlamasi.genruntimeconfig.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Object Oriented Programming\01-OOP\02-OOPGirisClassTanimlamasi\obj\Debug\net6.0\ref\02-OOPGirisClassTanimlamasi.dll
